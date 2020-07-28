@@ -24,6 +24,10 @@ public class TestShapes {
         // não compila, embora player tambem IS-A Animatable, porem a referença eh do tipo Animatable e não possui tal metodo
         // animatable.displayShape();
 
+        // Em tempo de compilação, o compilador olha se o tipo da referencia possui o metodo;
+        // Em tempo de runtime, a JVM executar o metodo overridden olhando para o tipo do objeto;
+        animatable.animate();
+
         // invoca o metodo override
         player.doSomethingGenerally();
 
