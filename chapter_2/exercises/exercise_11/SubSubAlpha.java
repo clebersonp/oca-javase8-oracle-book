@@ -1,9 +1,9 @@
 /*
-Compilar dentro do diretorio exercice_11: javac SubSubAlpha.java
-Executar dentro do diretorio exercice_11: java -cp ../ exercice_11.SubSubAlpha
+Compilar dentro do diretorio exercise_11: javac SubSubAlpha.java
+Executar dentro do diretorio exercise_11: java -cp ../ exercise_11.SubSubAlpha
 */
 
-package exercice_11;
+package exercise_11;
 
 class Alpha {
     static String s = "init ";

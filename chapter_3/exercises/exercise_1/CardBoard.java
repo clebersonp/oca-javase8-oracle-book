@@ -1,9 +1,9 @@
 /*
-    Compilar dentro do diretorio exercice_1: javac CardBoard.java
-    Executar dentro do diretorio exercice_1: java -cp ../ exercice_1.CardBoard
+    Compilar dentro do diretorio exercise_1: javac CardBoard.java
+    Executar dentro do diretorio exercise_1: java -cp ../ exercise_1.CardBoard
 */
 
-package exercice_1;
+package exercise_1;
 
 public class CardBoard {
 

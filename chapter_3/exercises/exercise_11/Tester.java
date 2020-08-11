@@ -1,9 +1,9 @@
 /*
-    Compilar dentro do diretorio exercice_11: javac Tester.java
-    Executar dentro do diretorio exercice_11: java -cp ../ exercice_11.Tester
+    Compilar dentro do diretorio exercise_11: javac Tester.java
+    Executar dentro do diretorio exercise_11: java -cp ../ exercise_11.Tester
 */
 
-package exercice_11;
+package exercise_11;
 
 class Beta { void doSomething() { System.out.println("Something...."); } }
 class Alpha {

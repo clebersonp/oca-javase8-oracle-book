@@ -1,9 +1,9 @@
 /*
-Compilar dentro do diretorio exercice_5: javac Hawk.java
-Executar dentro do diretorio exercice_5: java -cp ../ exercice_5.Hawk
+Compilar dentro do diretorio exercise_5: javac Hawk.java
+Executar dentro do diretorio exercise_5: java -cp ../ exercise_5.Hawk
 */
 
-package exercice_5;
+package exercise_5;
 
 class Bird {
     static { System.out.print("a1 "); }

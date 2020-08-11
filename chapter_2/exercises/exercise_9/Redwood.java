@@ -1,9 +1,9 @@
 /*
-Compilar dentro do diretorio exercice_9: javac Redwood.java
-Executar dentro do diretorio exercice_9: java -cp ../ exercice_9.Redwood
+Compilar dentro do diretorio exercise_9: javac Redwood.java
+Executar dentro do diretorio exercise_9: java -cp ../ exercise_9.Redwood
 */
 
-package exercice_9;
+package exercise_9;
 
 public class Redwood extends Tree {
     public static void main(String[] args) {

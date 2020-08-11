@@ -1,9 +1,9 @@
 /*
-Compilar dentro do diretorio exercice_13: javac ZooKeeper.java
-Executar dentro do diretorio exercice_13: java -cp ../ exercice_13.ZooKeeper
+Compilar dentro do diretorio exercise_13: javac ZooKeeper.java
+Executar dentro do diretorio exercise_13: java -cp ../ exercise_13.ZooKeeper
 */
 
-package exercice_13;
+package exercise_13;
 
 class Mammal {
     String name = "furry ";
