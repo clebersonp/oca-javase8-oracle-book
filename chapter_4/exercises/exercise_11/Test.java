@@ -43,4 +43,6 @@ public class Test {
             b2 = true;
         */
     }
+
+    // Result: A. - > true true
 }

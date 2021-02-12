@@ -46,5 +46,8 @@ public class Tree {
         // não compila, pois o tipo da instancia de b(Boat) não pode ser convertida para class B,
         // ou seja, Boat não eh IS-A de B
         // System.out.println(b instanceof B);
+
+
+        // Result: D. -> 012
     }
 }
