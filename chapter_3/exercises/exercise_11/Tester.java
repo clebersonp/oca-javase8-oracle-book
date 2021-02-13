@@ -36,4 +36,7 @@ public class Tester {
             o objeto Alpha que era apontado por a1 estara elegivel para o GC;
         */
     }
+
+    // When line 16 is reached, how many objects will be eligible for garbage collection?
+    // Result: B. -> 1
 }

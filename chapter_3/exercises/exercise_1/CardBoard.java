@@ -26,4 +26,6 @@ public class CardBoard {
         // o objeto que era apontado pela referencia c1, e o objeto wrapper story
         // que tbm deixa de ser acessado pois não existe nenhuma referencia;
     }
+
+    // Result: C. -> 2
 }
