@@ -6,7 +6,7 @@ Executar dentro do diretorio exercise_5: java -cp ../ exercise_5.Hawk
 package exercise_5;
 
 class Bird {
-    static { System.out.print("a1 "); }
+    // static { System.out.print("a1 "); }
     { System.out.print("b1 "); }
     public Bird() { System.out.print("b2 "); }
 }
@@ -28,4 +28,6 @@ class Hawk extends Raptor {
         new Hawk();
         System.out.println("hawk ");
     }
+
+    // Result: D.   -> a1 r1 r4 pre b1 b2 r3 r2 hawk
 }

@@ -27,4 +27,6 @@ public class ZooKeeper {
         */
         System.out.println(m.name + m.makeNoise());
     }
+
+    // Result: A.    -> furry bray
 }

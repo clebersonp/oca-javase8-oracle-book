@@ -6,7 +6,7 @@ Executar dentro do diretorio exercise_11: java -cp ../ exercise_11.SubSubAlpha
 package exercise_11;
 
 class Alpha {
-    static String s = "init ";
+    static String s = " ";
     protected Alpha() { s += "alpha "; }
 }
 class SubAlpha extends Alpha {
@@ -20,8 +20,9 @@ public class SubSubAlpha extends Alpha {
             Consigo acessar a variavel static de classe s pois SubSubAlpha extends de Alpha
             e pode ser acessada via SubSubAlpha.s ou via Alpha.s
         */
-        System.out.println(s);
         new SubSubAlpha();
         System.out.println(s);
     }
+
+    // Result: C.    -> alpha subsub
 }

@@ -21,5 +21,7 @@ public class Redwood extends Tree {
         Redwood r2 = (Redwood) t1;
         Tree t2 = (Tree) r1;
     }
+
+    // Result: A. -> An exception is thrown at runtime
 }
 class Tree {}
